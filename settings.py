@@ -3,8 +3,8 @@ class Settings:
     def __init__(self):
         """Инициализирует настройки игры"""
         # Параметры экрана
-        self.screen_width = 1400
-        self.screen_height = 1000
+        self.screen_width = 1250
+        self.screen_height = 720
         self.bg_color = (230, 230, 230)
         # настройки корабля
         self.ship_speed = 0.3
